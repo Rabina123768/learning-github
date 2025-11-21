@@ -1,2 +1,4 @@
 # learning-github
-this is my  first repositories
+this is my  first repository
+Author- Rabina Chaudhary
+
